@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head> 
+
+
+	<title>SJC || Breaking News</title>
+	<h1> 
+		
+	<style type="text/css">
+		h1 {
+			text-transform: uppercase;
+		}
+		h3 {
+			
+			background: red;
+			text-decoration-color: white;
+
+		}
+		p{ text-align: left;
+			
+		}
+
+		img 2{
+			align: right;
+			border:thin;
+			width: 400px;
+			height: 260px;
+			padding: 60px
+
+					
+			
+		}
+
+		span{
+			color: white;
+			width: 20px;
+			height: 40px
+		}
+	</style>
+</head>
+<body>
+	<header>
+		<h1>SJC PRESS</h1>
+	
+	</header>
+	<hr>
+	<h2><center>The Official  Press of St. Joseph Center</center></h2>
+	<article>
+		<h3><span>BEARS FOUND TO SPEAK BEAR LANGUAGE
+		<br>
+		Found to be Same Across all Bear Species</span>
+		<br>
+		August 1, 2017 || By: Sharron Plunket</h3>
+
+		<div align="left"><p align ="left"
+		 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut consequat rutrum libero, vel mattis nunc dictum sed. In non efficitur mauris. Etiam magna dui, gravida at ex at, semper lobortis ex. Nulla ultrices diam eget elit semper, egestas eleifend orci malesuada. Donec vulputate hendrerit neque, et pharetra ante blandit non. Phasellus eget iaculis tellus, nec feugiat diam. Nam tristique, mi at euismod elementum, justo mi auctor quam, non lacinia nulla justo venenatis urna. Nullam dictum, turpis at tempus sagittis, lacus elit euismod tortor, eget scelerisque purus nisi eu lectus. Ut vitae pulvinar est. Nulla lacinia molestie nibh eu semper. 
+			<br>
+			<div>
+				
+			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut consequat rutrum libero, vel mattis nunc dictum sed. In non efficitur mauris. Etiam magna dui, gravida at ex at, semper lobortis ex. Nulla ultrices diam eget elit semper, egestas eleifend orci malesuada. Donec vulputate hendrerit neque, et pharetra ante blandit non. Phasellus eget iaculis tellus, nec feugiat diam. Nam tristique, mi at euismod elementum, justo mi auctor quam, non lacinia nulla justo venenatis urna. Nullam dictum, turpis at tempus sagittis, lacus elit euismod tortor, eget scelerisque purus nisi eu lectus. Ut vitae pulvinar est. Nulla lacinia molestie nibh eu semper.
+		</p></div>
+		
+		
+	</article>
+
+	<img src="file:///Users/amina/Desktop/class-projects/news-article/images/polar-bears-whisper.jpg" align="right" style="padding-bottom: " " polar bear having a conversation  >  
+	<span>
+			
+	</span>
+
+<div></div>
+<h4></h4>
+<span<p>Proin imperdiet eros ac neque dignissim, eget tristique est mattis.
+		Aenean molestie odio a erat cursus interdum.
+		Phasellus sed orci quis eros hendrerit maximus vel vitae lorem.</p></div>
+		<br>
+	<img src="file:///Users/amina/Desktop/class-projects/news-article/images/grizzlies-argue.jpg" align="center ">
+			<span>
+			
+
+		</div>
+			</span><br><br>
+
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in hendrerit ligula, eget posuere mauris. Fusce sollicitudin lorem mi, id tristique libero imperdiet a. In vestibulum molestie maximus. Maecenas blandit semper mi, non dictum enim laoreet ut. Integer semper sapien non odio egestas viverra. Vivamus diam arcu, hendrerit eget turpis a, interdum elementum risus. Phasellus finibus justo vitae mauris egestas, id malesuada metus gravida. Aliquam diam tellus, auctor vitae imperdiet non, venenatis vitae purus. Nam id dui eget enim sollicitudin viverra et et urna. Sed et ipsum risus. Maecenas ac ornare orci. Nam blandit hendrerit tristique. Integer euismod malesuada tortor mollis iaculis. Phasellus posuere eros metus, ac luctus felis tincidunt volutpat. Proin a commodo libero. Suspendisse vel lorem eu nisl efficitur dapibus id in metus</p>
+	
+	<div>
+
+	</div>		<br>
+	<img src="file:///Users/amina/Desktop/class-projects/news-article/images/happy-bear.jpg" align="right" style="border-block-style: ">
+			<span>
+<div>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in hendrerit ligula, eget posuere mauris. Fusce sollicitudin lorem mi, id tristique libero imperdiet a. In vestibulum molestie maximus. Maecenas blandit semper mi, non dictum enim laoreet ut. Integer semper sapien non odio egestas viverra. Vivamus diam arcu, hendrerit eget turpis a, interdum elementum risus. Phasellus finibus justo vitae mauris egestas, id malesuada metus gravida. Aliquam diam tellus, auctor vitae imperdiet non, venenatis vitae purus. Nam id dui eget enim sollicitudin viverra et et urna. Sed et ipsum risus. Maecenas ac ornare orci. Nam blandit hendrerit tristique. Integer euismod malesuada tortor mollis iaculis. Phasellus posuere eros metus, ac luctus felis tincidunt volutpat. Proin a commodo libero. Suspendisse vel lorem eu nisl efficitur dapibus id in metus</p>
+
+</div>
+			</span><br><br>
+	<img src="file:///Users/amina/Desktop/class-projects/news-article/images/pandas.jpg"
+</body>
+</html>
